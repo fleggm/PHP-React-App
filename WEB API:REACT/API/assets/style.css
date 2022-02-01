@@ -1,0 +1,34 @@
+body {
+    background-color: rgb(84, 116, 116);
+}
+
+.HomeMenu{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  top: 0;
+  position: fixed;
+  overflow: hidden;
+  padding-top: 5px;
+}
+
+.HomeMenu a{
+    color: white;
+    text-align: center;
+    text-decoration: none;
+}
+
+.HomeDisplay{
+    float: left;
+    border-right: 1px solid #bbb;
+    padding-right: 10px;
+}
+
+.DocDisplay{
+    float: left;
+    padding-left: 10px;
+}
+
+h1{
+    margin-top:50px;
+}
