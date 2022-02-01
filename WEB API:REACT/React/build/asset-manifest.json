@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/kf6012/coursework/part2/static/css/main.acfcdeb3.css",
+    "main.js": "/kf6012/coursework/part2/static/js/main.b6b286aa.js",
+    "static/js/787.ceafc9f5.chunk.js": "/kf6012/coursework/part2/static/js/787.ceafc9f5.chunk.js",
+    "static/media/earthImage.jpg": "/kf6012/coursework/part2/static/media/earthImage.0ed5dc2c0950a86213d7.jpg",
+    "index.html": "/kf6012/coursework/part2/index.html",
+    "main.acfcdeb3.css.map": "/kf6012/coursework/part2/static/css/main.acfcdeb3.css.map",
+    "main.b6b286aa.js.map": "/kf6012/coursework/part2/static/js/main.b6b286aa.js.map",
+    "787.ceafc9f5.chunk.js.map": "/kf6012/coursework/part2/static/js/787.ceafc9f5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.acfcdeb3.css",
+    "static/js/main.b6b286aa.js"
+  ]
+}
